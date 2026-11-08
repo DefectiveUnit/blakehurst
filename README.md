@@ -1,6 +1,6 @@
-# Granny flat: 3D tour and photos
+# Granny flat, Blakehurst: 3D tour and photos
 
-A static site published with GitHub Pages: https://defectiveunit.github.io/granny-flat/
+A static site published with GitHub Pages: https://flythrough.homes/blakehurst/
 
 It has three parts:
 - **Getting there**: a fly-over from the street to the front door.
